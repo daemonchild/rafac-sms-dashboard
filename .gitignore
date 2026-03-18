@@ -1,3 +1,6 @@
+# datasets - cadet PII likely to be in there!
+datasets/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
